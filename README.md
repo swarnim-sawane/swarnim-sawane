@@ -2,7 +2,6 @@
 
 🔭 Bachelor of Technology in Artificial Intelligence, exploring the depths of coding creativity!<br>🌟 Led the winning team at Smart India Hackathon 2023, solving Ministry of Defence's problems with pixels and Python!<br>👯 I’m looking to collaborate on great Computer Vison projects<br>🌱 I’m currently learning about world of Reinforcement Learning<br>💬 Ask me about anything related to coding, hackathons, or the latest tech trends - I'm all ears!<br>⚡ Fun fact, I like C++ more than Python
 
-<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swarnim_sawane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnim-sawane) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@melodicious5698) 

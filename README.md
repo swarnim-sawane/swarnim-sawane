@@ -1,4 +1,4 @@
-# [![Swarnim Sawane header](https://raw.githubusercontent.com/swarnim-sawane/swarnim-sawane/master/icon/Designer.png)](https://swarnim-sawane.vercel.app/)
+# <a href="https://swarnim-sawane.vercel.app/"><img width="150" align='right' src="icon/Designer.png"></a>
 
 <p>
   <a href="https://www.cloudraft.io/olly"><img width="150" align='right' src="icon\Demo.png"></a>

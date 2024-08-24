@@ -9,7 +9,7 @@
 <a href="https://medium.com/@swarnim.sawane"><img height="30" src="icon\medium-logo.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/swarnim_sawane/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/swarnim-sawane/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-<a href="https://youtube.com/@melodicious5698"><img height="30" src="icon\twitter.png"></a>
+<a href="https://youtube.com/@melodicious5698"><img height="30" src="icon\youtube.png"></a>
 </p>
 
 Hey there 👋,

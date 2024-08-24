@@ -1,4 +1,4 @@
-# <a href="https://swarnim-sawane.vercel.app/"><img width="150" align='right' src="icon/Designer.png"></a>
+![Swarnim Sawane](icon/Designer.png)
 
 <p>
   <a href="https://www.cloudraft.io/olly"><img width="150" align='right' src="icon\Demo.png"></a>

@@ -1,4 +1,4 @@
-# [![Swarnim Sawane header](icon\Designer (2).png)](https://swarnim-sawane.vercel.app/)
+# [![Swarnim Sawane header](icon\Designer.png)](https://swarnim-sawane.vercel.app/)
 
 <p>
   <a href="https://www.cloudraft.io/olly"><img width="150" align='right' src="icon\Demo.png"></a>
@@ -27,10 +27,6 @@ I create blog posts and full stack products mainly about AI and data engineering
 I enjoy creating practical solutions that solve real problems using AI. Whether it’s writing clean code 🧑‍💻, or contributing to open-source projects 🌍, I focus on making things that are useful and easy to understand. I believe that sharing what I learn 📢 and building tools that others can benefit from is the best way to make a lasting impact 🌟.
 
  ---
-
-<p>
-  <img width="300" align='right' src="icon\hacktoberfest.png">
-</p>
 
 ### My Digital Garden 🌱
 

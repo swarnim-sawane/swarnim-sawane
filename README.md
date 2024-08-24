@@ -1,6 +1,6 @@
 ![Swarnim Sawane](icon/Designer.png)
 
-<p>
+<p align='center'>
   <a href="https://www.cloudraft.io/olly"><img width="150" align='right' src="icon\Demo.png"></a>
 </p>
 

@@ -30,7 +30,7 @@ I enjoy creating practical solutions that solve real problems using AI. Whether 
 
 ### My Digital Garden 🌱
 
-I write blog posts, most of which you will find on [dev.to/swarnimsawane](https://dev.to/swarnimsawane), about things I am familiar with, things about AI, and things that I am learning. utilising **python** and **C++** over **data**.  
+I write blog posts, most of which you will find on [dev.to/swarnimsawane](https://dev.to/swarnimsawane), about things I am familiar with,things about AI, and what I am learning utilising **python** and **C++** over **data**.  
 
 Latest Blog 👉 : [Find it here] [.](https://medium.com/@swarnim.sawane/content-moderation-using-ai-a977f4864465)
 
